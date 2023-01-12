@@ -1,0 +1,7 @@
+DATA/
+DATA/Flower/flower_data/
+DATA/Flower/split.py
+DATA/CIFAR10/
+DATA/MNIST/
+VGG/VGGModel/*.pkl
+**/example/*.py

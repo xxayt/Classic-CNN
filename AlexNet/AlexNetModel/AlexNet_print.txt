@@ -1,0 +1,663 @@
+[1:10] loss is 1.620908, acc is 0.203125
+[1:20] loss is 1.607080, acc is 0.156250
+[1:30] loss is 1.624718, acc is 0.156250
+[1:40] loss is 1.605798, acc is 0.234375
+[1:50] loss is 1.600763, acc is 0.265625
+Train Epoch=1, TrainLoss=1.61716, TrainAcc=0.23140
+Train Epoch=1, TestAcc=0.24176
+Best now is epoch=1, test acc=0.24175824175824176.     
+[2:10] loss is 1.600375, acc is 0.281250
+[2:20] loss is 1.603485, acc is 0.187500
+[2:30] loss is 1.602353, acc is 0.265625
+[2:40] loss is 1.600357, acc is 0.218750
+[2:50] loss is 1.578447, acc is 0.265625
+Train Epoch=2, TrainLoss=1.60037, TrainAcc=0.24259
+Train Epoch=2, TestAcc=0.24451
+Best now is epoch=2, test acc=0.2445054945054945.      
+[3:10] loss is 1.510761, acc is 0.265625
+[3:20] loss is 1.461263, acc is 0.312500
+[3:30] loss is 1.555996, acc is 0.250000
+[3:40] loss is 1.454947, acc is 0.375000
+[3:50] loss is 1.467357, acc is 0.296875
+Train Epoch=3, TrainLoss=1.50793, TrainAcc=0.29583
+Train Epoch=3, TestAcc=0.27473
+Best now is epoch=3, test acc=0.27472527472527475.     
+[4:10] loss is 1.598399, acc is 0.296875
+[4:20] loss is 1.475423, acc is 0.328125
+[4:30] loss is 1.469321, acc is 0.312500
+[4:40] loss is 1.388310, acc is 0.265625
+[4:50] loss is 1.270127, acc is 0.375000
+Train Epoch=4, TrainLoss=1.41406, TrainAcc=0.33606
+Train Epoch=4, TestAcc=0.39560
+Best now is epoch=4, test acc=0.3956043956043956.      
+[5:10] loss is 1.456512, acc is 0.343750
+[5:20] loss is 1.149880, acc is 0.468750
+[5:30] loss is 1.284418, acc is 0.390625
+[5:40] loss is 1.260076, acc is 0.375000
+[5:50] loss is 1.264661, acc is 0.359375
+Train Epoch=5, TrainLoss=1.27489, TrainAcc=0.44071
+Train Epoch=5, TestAcc=0.47253
+Best now is epoch=5, test acc=0.4725274725274725.      
+[6:10] loss is 1.263556, acc is 0.375000
+[6:20] loss is 1.172600, acc is 0.406250
+[6:30] loss is 1.150195, acc is 0.453125
+[6:40] loss is 1.415854, acc is 0.453125
+[6:50] loss is 1.157753, acc is 0.562500
+Train Epoch=6, TrainLoss=1.22216, TrainAcc=0.46431
+Train Epoch=6, TestAcc=0.47527
+Best now is epoch=6, test acc=0.47527472527472525.     
+[7:10] loss is 1.320869, acc is 0.406250
+[7:20] loss is 1.190780, acc is 0.515625
+[7:30] loss is 1.170180, acc is 0.500000
+[7:40] loss is 1.135177, acc is 0.515625
+[7:50] loss is 1.242584, acc is 0.437500
+Train Epoch=7, TrainLoss=1.21071, TrainAcc=0.48790
+Train Epoch=7, TestAcc=0.48352
+Best now is epoch=7, test acc=0.4835164835164835.      
+[8:10] loss is 1.162349, acc is 0.515625
+[8:20] loss is 1.008860, acc is 0.593750
+[8:30] loss is 1.147749, acc is 0.468750
+[8:40] loss is 1.337786, acc is 0.437500
+[8:50] loss is 1.130945, acc is 0.500000
+Train Epoch=8, TrainLoss=1.18088, TrainAcc=0.49486
+Train Epoch=8, TestAcc=0.49451
+Best now is epoch=8, test acc=0.4945054945054945.      
+[9:10] loss is 1.197615, acc is 0.562500
+[9:20] loss is 1.264978, acc is 0.437500
+[9:30] loss is 1.051691, acc is 0.546875
+[9:40] loss is 1.095969, acc is 0.546875
+[9:50] loss is 1.173571, acc is 0.500000
+Train Epoch=9, TrainLoss=1.18034, TrainAcc=0.50091
+Train Epoch=9, TestAcc=0.48626
+[10:10] loss is 1.129037, acc is 0.578125
+[10:20] loss is 1.229179, acc is 0.468750
+[10:30] loss is 1.359255, acc is 0.390625
+[10:40] loss is 1.098327, acc is 0.531250
+[10:50] loss is 1.096828, acc is 0.484375
+Train Epoch=10, TrainLoss=1.16731, TrainAcc=0.49909
+Train Epoch=10, TestAcc=0.50824
+Best now is epoch=10, test acc=0.5082417582417582.     
+[11:10] loss is 1.002697, acc is 0.546875
+[11:20] loss is 1.239556, acc is 0.453125
+[11:30] loss is 1.145969, acc is 0.500000
+[11:40] loss is 1.026570, acc is 0.562500
+[11:50] loss is 1.096838, acc is 0.468750
+Train Epoch=11, TrainLoss=1.16880, TrainAcc=0.50544
+Train Epoch=11, TestAcc=0.47527
+[12:10] loss is 1.171862, acc is 0.546875
+[12:20] loss is 1.185668, acc is 0.562500
+[12:30] loss is 1.040269, acc is 0.578125
+[12:40] loss is 1.043831, acc is 0.593750
+[12:50] loss is 1.104694, acc is 0.468750
+Train Epoch=12, TrainLoss=1.14639, TrainAcc=0.52027
+Train Epoch=12, TestAcc=0.52473
+Best now is epoch=12, test acc=0.5247252747252747.     
+[13:10] loss is 1.012689, acc is 0.671875
+[13:20] loss is 1.134081, acc is 0.578125
+[13:30] loss is 1.268186, acc is 0.421875
+[13:40] loss is 1.076818, acc is 0.578125
+[13:50] loss is 1.011124, acc is 0.609375
+Train Epoch=13, TrainLoss=1.12753, TrainAcc=0.52601
+Train Epoch=13, TestAcc=0.53022
+Best now is epoch=13, test acc=0.5302197802197802.     
+[14:10] loss is 1.249582, acc is 0.421875
+[14:20] loss is 1.071861, acc is 0.562500
+[14:30] loss is 1.174546, acc is 0.593750
+[14:40] loss is 1.062651, acc is 0.531250
+[14:50] loss is 1.134312, acc is 0.515625
+Train Epoch=14, TrainLoss=1.11857, TrainAcc=0.53388
+Train Epoch=14, TestAcc=0.52473
+[15:10] loss is 0.933424, acc is 0.578125
+[15:20] loss is 1.182166, acc is 0.546875
+[15:30] loss is 1.098515, acc is 0.609375
+[15:40] loss is 1.005791, acc is 0.562500
+[15:50] loss is 1.110176, acc is 0.468750
+Train Epoch=15, TrainLoss=1.09792, TrainAcc=0.55233
+Train Epoch=15, TestAcc=0.51648
+[16:10] loss is 1.031194, acc is 0.546875
+[16:20] loss is 1.027287, acc is 0.593750
+[16:30] loss is 1.284274, acc is 0.453125
+[16:40] loss is 1.259921, acc is 0.406250
+[16:50] loss is 1.117036, acc is 0.546875
+Train Epoch=16, TrainLoss=1.09459, TrainAcc=0.54991
+Train Epoch=16, TestAcc=0.52198
+[17:10] loss is 1.148931, acc is 0.484375
+[17:20] loss is 1.224560, acc is 0.421875
+[17:30] loss is 1.024042, acc is 0.531250
+[17:40] loss is 1.178856, acc is 0.515625
+[17:50] loss is 1.025660, acc is 0.609375
+Train Epoch=17, TrainLoss=1.09512, TrainAcc=0.54083
+Train Epoch=17, TestAcc=0.55220
+Best now is epoch=17, test acc=0.5521978021978022.     
+[18:10] loss is 1.038382, acc is 0.562500
+[18:20] loss is 1.029447, acc is 0.578125
+[18:30] loss is 1.176326, acc is 0.468750
+[18:40] loss is 1.199325, acc is 0.484375
+[18:50] loss is 0.989430, acc is 0.640625
+Train Epoch=18, TrainLoss=1.05969, TrainAcc=0.56927
+Train Epoch=18, TestAcc=0.54945
+[19:10] loss is 0.876357, acc is 0.609375
+[19:20] loss is 0.824282, acc is 0.640625
+[19:30] loss is 1.150568, acc is 0.562500
+[19:40] loss is 1.170370, acc is 0.515625
+[19:50] loss is 1.300705, acc is 0.484375
+Train Epoch=19, TrainLoss=1.03717, TrainAcc=0.58348
+Train Epoch=19, TestAcc=0.59341
+Best now is epoch=19, test acc=0.5934065934065934.     
+[20:10] loss is 1.037590, acc is 0.578125
+[20:20] loss is 0.837691, acc is 0.640625
+[20:30] loss is 1.004302, acc is 0.640625
+[20:40] loss is 0.971835, acc is 0.562500
+[20:50] loss is 0.965117, acc is 0.562500
+Train Epoch=20, TrainLoss=1.04121, TrainAcc=0.57985
+Train Epoch=20, TestAcc=0.59890
+Best now is epoch=20, test acc=0.5989010989010989.     
+[21:10] loss is 1.077610, acc is 0.578125
+[21:20] loss is 1.214900, acc is 0.546875
+[21:30] loss is 1.039356, acc is 0.609375
+[21:40] loss is 0.951436, acc is 0.593750
+[21:50] loss is 1.009467, acc is 0.593750
+Train Epoch=21, TrainLoss=1.00645, TrainAcc=0.58984
+Train Epoch=21, TestAcc=0.59615
+[22:10] loss is 1.006111, acc is 0.625000
+[22:20] loss is 1.069215, acc is 0.593750
+[22:30] loss is 0.887708, acc is 0.625000
+[22:40] loss is 0.983458, acc is 0.640625
+[22:50] loss is 0.955678, acc is 0.609375
+Train Epoch=22, TrainLoss=1.00751, TrainAcc=0.60345
+Train Epoch=22, TestAcc=0.59066
+[23:10] loss is 1.003240, acc is 0.578125
+[23:20] loss is 0.790273, acc is 0.718750
+[23:30] loss is 1.015851, acc is 0.656250
+[23:40] loss is 0.872910, acc is 0.593750
+[23:50] loss is 0.935591, acc is 0.656250
+Train Epoch=23, TrainLoss=0.98609, TrainAcc=0.60799
+Train Epoch=23, TestAcc=0.62912
+Best now is epoch=23, test acc=0.6291208791208791.     
+[24:10] loss is 1.319902, acc is 0.500000
+[24:20] loss is 1.135038, acc is 0.578125
+[24:30] loss is 0.923860, acc is 0.687500
+[24:40] loss is 1.029232, acc is 0.546875
+[24:50] loss is 1.040101, acc is 0.625000
+Train Epoch=24, TrainLoss=0.99562, TrainAcc=0.60980
+Train Epoch=24, TestAcc=0.60714
+[25:10] loss is 0.921586, acc is 0.625000
+[25:20] loss is 0.879087, acc is 0.687500
+[25:30] loss is 1.111390, acc is 0.562500
+[25:40] loss is 1.147480, acc is 0.593750
+[25:50] loss is 1.097948, acc is 0.546875
+Train Epoch=25, TrainLoss=0.99020, TrainAcc=0.61041
+Train Epoch=25, TestAcc=0.64286
+Best now is epoch=25, test acc=0.6428571428571429.     
+[26:10] loss is 0.860580, acc is 0.671875
+[26:20] loss is 0.928181, acc is 0.671875
+[26:30] loss is 1.234308, acc is 0.515625
+[26:40] loss is 0.803650, acc is 0.718750
+[26:50] loss is 0.962070, acc is 0.593750
+Train Epoch=26, TrainLoss=0.97146, TrainAcc=0.62220
+Train Epoch=26, TestAcc=0.62363
+[27:10] loss is 1.056738, acc is 0.578125
+[27:20] loss is 0.924309, acc is 0.656250
+[27:30] loss is 0.987549, acc is 0.578125
+[27:40] loss is 1.110530, acc is 0.531250
+[27:50] loss is 1.264542, acc is 0.406250
+Train Epoch=27, TrainLoss=0.96045, TrainAcc=0.62190
+Train Epoch=27, TestAcc=0.62912
+[28:10] loss is 0.963585, acc is 0.593750
+[28:20] loss is 0.958360, acc is 0.656250
+[28:30] loss is 0.835254, acc is 0.687500
+[28:40] loss is 0.811652, acc is 0.734375
+[28:50] loss is 0.968121, acc is 0.625000
+Train Epoch=28, TrainLoss=0.94678, TrainAcc=0.62825
+Train Epoch=28, TestAcc=0.66758
+Best now is epoch=28, test acc=0.6675824175824175.     
+[29:10] loss is 1.054735, acc is 0.593750
+[29:20] loss is 0.859137, acc is 0.640625
+[29:30] loss is 1.033617, acc is 0.593750
+[29:40] loss is 0.988193, acc is 0.640625
+[29:50] loss is 0.897556, acc is 0.562500
+Train Epoch=29, TrainLoss=0.92515, TrainAcc=0.62220
+Train Epoch=29, TestAcc=0.63736
+[30:10] loss is 0.702571, acc is 0.781250
+[30:20] loss is 0.848543, acc is 0.703125
+[30:30] loss is 1.075929, acc is 0.609375
+[30:40] loss is 0.866690, acc is 0.703125
+[30:50] loss is 0.837952, acc is 0.718750
+Train Epoch=30, TrainLoss=0.94040, TrainAcc=0.63763
+Train Epoch=30, TestAcc=0.63736
+[31:10] loss is 0.921987, acc is 0.640625
+[31:20] loss is 1.056770, acc is 0.531250
+[31:30] loss is 1.040897, acc is 0.609375
+[31:40] loss is 0.983429, acc is 0.578125
+[31:50] loss is 0.900530, acc is 0.609375
+Train Epoch=31, TrainLoss=0.93774, TrainAcc=0.63249
+Train Epoch=31, TestAcc=0.62912
+[32:10] loss is 0.906517, acc is 0.640625
+[32:20] loss is 0.932640, acc is 0.609375
+[32:30] loss is 0.958823, acc is 0.640625
+[32:40] loss is 0.855818, acc is 0.718750
+[32:50] loss is 0.897864, acc is 0.656250
+Train Epoch=32, TrainLoss=0.90193, TrainAcc=0.65094
+Train Epoch=32, TestAcc=0.66758
+Best now is epoch=32, test acc=0.6675824175824175.     
+[33:10] loss is 1.027530, acc is 0.593750
+[33:20] loss is 1.263865, acc is 0.484375
+[33:30] loss is 0.898416, acc is 0.656250
+[33:40] loss is 0.641728, acc is 0.765625
+[33:50] loss is 0.900635, acc is 0.609375
+Train Epoch=33, TrainLoss=0.92208, TrainAcc=0.63975
+Train Epoch=33, TestAcc=0.66209
+[34:10] loss is 0.886220, acc is 0.671875
+[34:20] loss is 0.982065, acc is 0.640625
+[34:30] loss is 0.853198, acc is 0.640625
+[34:40] loss is 0.931629, acc is 0.687500
+[34:50] loss is 0.764447, acc is 0.687500
+Train Epoch=34, TrainLoss=0.91485, TrainAcc=0.64307
+Train Epoch=34, TestAcc=0.63736
+[35:10] loss is 1.018963, acc is 0.656250
+[35:20] loss is 0.962683, acc is 0.625000
+[35:30] loss is 0.944319, acc is 0.609375
+[35:40] loss is 0.748788, acc is 0.703125
+[35:50] loss is 0.922422, acc is 0.625000
+Train Epoch=35, TrainLoss=0.92014, TrainAcc=0.64761
+Train Epoch=35, TestAcc=0.66484
+[36:10] loss is 1.022095, acc is 0.531250
+[36:20] loss is 0.959091, acc is 0.531250
+[36:30] loss is 0.937274, acc is 0.640625
+[36:40] loss is 0.939702, acc is 0.609375
+[36:50] loss is 0.788618, acc is 0.687500
+Train Epoch=36, TrainLoss=0.90836, TrainAcc=0.63612
+Train Epoch=36, TestAcc=0.62912
+[37:10] loss is 0.869117, acc is 0.562500
+[37:20] loss is 0.865136, acc is 0.703125
+[37:30] loss is 1.111958, acc is 0.625000
+[37:40] loss is 0.873819, acc is 0.640625
+[37:50] loss is 1.005267, acc is 0.531250
+Train Epoch=37, TrainLoss=0.91236, TrainAcc=0.63975
+Train Epoch=37, TestAcc=0.63187
+[38:10] loss is 0.885309, acc is 0.718750
+[38:20] loss is 0.739353, acc is 0.703125
+[38:30] loss is 0.900435, acc is 0.703125
+[38:40] loss is 0.800709, acc is 0.703125
+[38:50] loss is 0.899000, acc is 0.625000
+Train Epoch=38, TrainLoss=0.88588, TrainAcc=0.65638
+Train Epoch=38, TestAcc=0.64835
+[39:10] loss is 0.923023, acc is 0.640625
+[39:20] loss is 0.805674, acc is 0.656250
+[39:30] loss is 0.784589, acc is 0.703125
+[39:40] loss is 1.037080, acc is 0.531250
+[39:50] loss is 0.861237, acc is 0.703125
+Train Epoch=39, TrainLoss=0.89233, TrainAcc=0.64247
+Train Epoch=39, TestAcc=0.66758
+Best now is epoch=39, test acc=0.6675824175824175.     
+[40:10] loss is 0.874813, acc is 0.718750
+[40:20] loss is 0.930153, acc is 0.656250
+[40:30] loss is 0.810785, acc is 0.765625
+[40:40] loss is 1.027966, acc is 0.593750
+[40:50] loss is 0.888863, acc is 0.593750
+Train Epoch=40, TrainLoss=0.86015, TrainAcc=0.66878
+Train Epoch=40, TestAcc=0.64286
+[41:10] loss is 0.818112, acc is 0.671875
+[41:20] loss is 0.814487, acc is 0.687500
+[41:30] loss is 0.935657, acc is 0.640625
+[41:40] loss is 0.709511, acc is 0.703125
+[41:50] loss is 0.758935, acc is 0.640625
+Train Epoch=41, TrainLoss=0.87402, TrainAcc=0.66243
+Train Epoch=41, TestAcc=0.68132
+Best now is epoch=41, test acc=0.6813186813186813.     
+[42:10] loss is 0.917557, acc is 0.609375
+[42:20] loss is 0.922156, acc is 0.640625
+[42:30] loss is 0.690040, acc is 0.718750
+[42:40] loss is 0.741044, acc is 0.750000
+[42:50] loss is 0.934094, acc is 0.578125
+Train Epoch=42, TrainLoss=0.86016, TrainAcc=0.66183
+Train Epoch=42, TestAcc=0.65659
+[43:10] loss is 1.028017, acc is 0.593750
+[43:20] loss is 0.741130, acc is 0.718750
+[43:30] loss is 0.793501, acc is 0.656250
+[43:40] loss is 0.869178, acc is 0.687500
+[43:50] loss is 0.962376, acc is 0.593750
+Train Epoch=43, TrainLoss=0.85347, TrainAcc=0.66788
+Train Epoch=43, TestAcc=0.66209
+[44:10] loss is 0.929380, acc is 0.546875
+[44:20] loss is 0.817114, acc is 0.734375
+[44:30] loss is 1.009674, acc is 0.625000
+[44:40] loss is 0.660683, acc is 0.734375
+[44:50] loss is 0.852112, acc is 0.640625
+Train Epoch=44, TrainLoss=0.85944, TrainAcc=0.66697
+Train Epoch=44, TestAcc=0.68132
+Best now is epoch=44, test acc=0.6813186813186813.     
+[45:10] loss is 0.621350, acc is 0.812500
+[45:20] loss is 0.871848, acc is 0.703125
+[45:30] loss is 0.860346, acc is 0.703125
+[45:40] loss is 1.010916, acc is 0.578125
+[45:50] loss is 0.881100, acc is 0.656250
+Train Epoch=45, TrainLoss=0.84762, TrainAcc=0.67907    
+Train Epoch=45, TestAcc=0.67308
+[46:10] loss is 0.793689, acc is 0.703125
+[46:20] loss is 0.944245, acc is 0.671875
+[46:30] loss is 0.898139, acc is 0.656250
+[46:40] loss is 0.802291, acc is 0.718750
+[46:50] loss is 0.579576, acc is 0.828125
+Train Epoch=46, TrainLoss=0.84852, TrainAcc=0.67362    
+Train Epoch=46, TestAcc=0.67582
+[47:10] loss is 0.726630, acc is 0.718750
+[47:20] loss is 0.724918, acc is 0.718750
+[47:30] loss is 0.837513, acc is 0.671875
+[47:40] loss is 0.662915, acc is 0.765625
+[47:50] loss is 0.897673, acc is 0.703125
+Train Epoch=47, TrainLoss=0.83793, TrainAcc=0.66999    
+Train Epoch=47, TestAcc=0.68681
+Best now is epoch=47, test acc=0.6868131868131868.     
+[48:10] loss is 0.801855, acc is 0.703125
+[48:20] loss is 0.839686, acc is 0.703125
+[48:30] loss is 0.908927, acc is 0.656250
+[48:40] loss is 0.853380, acc is 0.640625
+[48:50] loss is 0.944531, acc is 0.671875
+Train Epoch=48, TrainLoss=0.83838, TrainAcc=0.68240    
+Train Epoch=48, TestAcc=0.67033
+[49:10] loss is 0.876980, acc is 0.656250
+[49:20] loss is 0.687082, acc is 0.750000
+[49:30] loss is 0.755168, acc is 0.687500
+[49:40] loss is 0.872933, acc is 0.640625
+[49:50] loss is 0.598846, acc is 0.765625
+Train Epoch=49, TrainLoss=0.84711, TrainAcc=0.67453    
+Train Epoch=49, TestAcc=0.68132
+[50:10] loss is 0.921080, acc is 0.640625
+[50:20] loss is 1.033587, acc is 0.593750
+[50:30] loss is 0.666734, acc is 0.812500
+[50:40] loss is 0.827390, acc is 0.718750
+[50:50] loss is 0.832919, acc is 0.703125
+Train Epoch=50, TrainLoss=0.83440, TrainAcc=0.67756
+Train Epoch=50, TestAcc=0.67033
+[51:10] loss is 0.772995, acc is 0.703125
+[51:20] loss is 0.973792, acc is 0.671875
+[51:30] loss is 0.820711, acc is 0.687500
+[51:40] loss is 0.635541, acc is 0.734375
+[51:50] loss is 0.867633, acc is 0.687500
+Train Epoch=51, TrainLoss=0.79646, TrainAcc=0.69056
+Train Epoch=51, TestAcc=0.67033
+[52:10] loss is 0.549008, acc is 0.828125
+[52:20] loss is 0.672804, acc is 0.750000
+[52:30] loss is 0.818507, acc is 0.718750
+[52:40] loss is 0.909651, acc is 0.703125
+[52:50] loss is 0.829102, acc is 0.718750
+Train Epoch=52, TrainLoss=0.84512, TrainAcc=0.68149
+Train Epoch=52, TestAcc=0.69780
+Best now is epoch=52, test acc=0.6978021978021978.     
+[53:10] loss is 0.751397, acc is 0.687500
+[53:20] loss is 0.715520, acc is 0.765625
+[53:30] loss is 0.868792, acc is 0.671875
+[53:40] loss is 0.827061, acc is 0.687500
+[53:50] loss is 0.808163, acc is 0.734375
+Train Epoch=53, TrainLoss=0.80100, TrainAcc=0.69298
+Train Epoch=53, TestAcc=0.67582
+[54:10] loss is 0.746893, acc is 0.703125
+[54:20] loss is 0.564155, acc is 0.843750
+[54:30] loss is 0.738038, acc is 0.718750
+[54:40] loss is 0.750375, acc is 0.734375
+[54:50] loss is 0.749662, acc is 0.687500
+Train Epoch=54, TrainLoss=0.80772, TrainAcc=0.69238
+Train Epoch=54, TestAcc=0.69505
+[55:10] loss is 0.845568, acc is 0.609375
+[55:20] loss is 0.895321, acc is 0.656250
+[55:30] loss is 0.756577, acc is 0.671875
+[55:40] loss is 0.588444, acc is 0.781250
+[55:50] loss is 0.784315, acc is 0.718750
+Train Epoch=55, TrainLoss=0.79571, TrainAcc=0.69631
+Train Epoch=55, TestAcc=0.68132
+[56:10] loss is 0.574853, acc is 0.765625
+[56:20] loss is 0.646193, acc is 0.750000
+[56:30] loss is 0.778761, acc is 0.750000
+[56:40] loss is 0.753929, acc is 0.671875
+[56:50] loss is 0.746412, acc is 0.671875
+Train Epoch=56, TrainLoss=0.78793, TrainAcc=0.69933
+Train Epoch=56, TestAcc=0.70604
+Best now is epoch=56, test acc=0.7060439560439561.     
+[57:10] loss is 0.908442, acc is 0.703125
+[57:20] loss is 0.703511, acc is 0.734375
+[57:30] loss is 0.975431, acc is 0.656250
+[57:40] loss is 0.796282, acc is 0.718750
+[57:50] loss is 0.803403, acc is 0.671875
+Train Epoch=57, TrainLoss=0.79091, TrainAcc=0.69691
+Train Epoch=57, TestAcc=0.67308
+[58:10] loss is 0.681116, acc is 0.671875
+[58:20] loss is 0.906463, acc is 0.687500
+[58:30] loss is 0.892103, acc is 0.687500
+[58:40] loss is 0.640358, acc is 0.750000
+[58:50] loss is 0.937326, acc is 0.562500
+Train Epoch=58, TrainLoss=0.79468, TrainAcc=0.68996
+Train Epoch=58, TestAcc=0.67033
+[59:10] loss is 0.728188, acc is 0.703125
+[59:20] loss is 0.988543, acc is 0.593750
+[59:30] loss is 0.891567, acc is 0.671875
+[59:40] loss is 0.796982, acc is 0.718750
+[59:50] loss is 0.832365, acc is 0.703125
+Train Epoch=59, TrainLoss=0.79567, TrainAcc=0.69117
+Train Epoch=59, TestAcc=0.67857
+[60:10] loss is 0.674425, acc is 0.671875
+[60:20] loss is 0.560823, acc is 0.765625
+[60:30] loss is 0.653439, acc is 0.750000
+[60:40] loss is 0.737976, acc is 0.703125
+[60:50] loss is 0.933873, acc is 0.625000
+Train Epoch=60, TrainLoss=0.77357, TrainAcc=0.69843
+Train Epoch=60, TestAcc=0.69505
+[61:10] loss is 0.838167, acc is 0.656250
+[61:20] loss is 0.769752, acc is 0.656250
+[61:30] loss is 0.720473, acc is 0.671875
+[61:40] loss is 0.809227, acc is 0.671875
+[61:50] loss is 0.845872, acc is 0.687500
+Train Epoch=61, TrainLoss=0.76694, TrainAcc=0.69631
+Train Epoch=61, TestAcc=0.70330
+[62:10] loss is 0.740443, acc is 0.796875
+[62:20] loss is 0.703351, acc is 0.718750
+[62:30] loss is 0.681515, acc is 0.812500
+[62:40] loss is 0.672405, acc is 0.828125
+[62:50] loss is 0.896309, acc is 0.671875
+Train Epoch=62, TrainLoss=0.78593, TrainAcc=0.70266
+Train Epoch=62, TestAcc=0.71429
+Best now is epoch=62, test acc=0.7142857142857143.     
+[63:10] loss is 0.673158, acc is 0.765625
+[63:20] loss is 0.725004, acc is 0.734375
+[63:30] loss is 0.648886, acc is 0.796875
+[63:40] loss is 0.643846, acc is 0.703125
+[63:50] loss is 0.762972, acc is 0.718750
+Train Epoch=63, TrainLoss=0.74788, TrainAcc=0.71385
+Train Epoch=63, TestAcc=0.69780
+[64:10] loss is 0.769977, acc is 0.671875
+[64:20] loss is 0.755093, acc is 0.687500
+[64:30] loss is 0.881871, acc is 0.656250
+[64:40] loss is 0.745055, acc is 0.718750
+[64:50] loss is 0.742791, acc is 0.734375
+Train Epoch=64, TrainLoss=0.75136, TrainAcc=0.72051
+Train Epoch=64, TestAcc=0.65934
+[65:10] loss is 0.772859, acc is 0.640625
+[65:20] loss is 0.814534, acc is 0.703125
+[65:30] loss is 0.778132, acc is 0.765625
+[65:40] loss is 0.778307, acc is 0.703125
+[65:50] loss is 0.615517, acc is 0.734375
+Train Epoch=65, TrainLoss=0.76479, TrainAcc=0.71325
+Train Epoch=65, TestAcc=0.71154
+[66:10] loss is 0.549948, acc is 0.781250
+[66:20] loss is 0.869819, acc is 0.750000
+[66:30] loss is 0.699015, acc is 0.734375
+[66:40] loss is 0.902101, acc is 0.687500
+[66:50] loss is 0.835194, acc is 0.687500
+Train Epoch=66, TrainLoss=0.75252, TrainAcc=0.70811
+Train Epoch=66, TestAcc=0.70604
+[67:10] loss is 0.824061, acc is 0.718750
+[67:20] loss is 0.666685, acc is 0.703125
+[67:30] loss is 0.617597, acc is 0.765625
+[67:40] loss is 0.794223, acc is 0.656250
+[67:50] loss is 0.822545, acc is 0.703125
+Train Epoch=67, TrainLoss=0.75761, TrainAcc=0.71234
+Train Epoch=67, TestAcc=0.69505
+[68:10] loss is 0.800792, acc is 0.703125
+[68:20] loss is 0.737650, acc is 0.765625
+[68:30] loss is 0.908046, acc is 0.609375
+[68:40] loss is 0.871488, acc is 0.656250
+[68:50] loss is 0.624150, acc is 0.734375
+Train Epoch=68, TrainLoss=0.74283, TrainAcc=0.72021
+Train Epoch=68, TestAcc=0.69780
+[69:10] loss is 0.690190, acc is 0.781250
+[69:20] loss is 0.793083, acc is 0.671875
+[69:30] loss is 0.727482, acc is 0.703125
+[69:40] loss is 0.504491, acc is 0.781250
+[69:50] loss is 0.790922, acc is 0.734375
+Train Epoch=69, TrainLoss=0.71554, TrainAcc=0.72505
+Train Epoch=69, TestAcc=0.68681
+[70:10] loss is 0.474863, acc is 0.890625
+[70:20] loss is 0.767745, acc is 0.687500
+[70:30] loss is 0.656352, acc is 0.750000
+[70:40] loss is 0.774400, acc is 0.687500
+[70:50] loss is 0.756092, acc is 0.734375
+Train Epoch=70, TrainLoss=0.72803, TrainAcc=0.71990
+Train Epoch=70, TestAcc=0.70055
+[71:10] loss is 0.825448, acc is 0.671875
+[71:20] loss is 0.572618, acc is 0.781250
+[71:30] loss is 0.924006, acc is 0.625000
+[71:40] loss is 0.647729, acc is 0.765625
+[71:50] loss is 0.627236, acc is 0.734375
+Train Epoch=71, TrainLoss=0.74113, TrainAcc=0.71204
+Train Epoch=71, TestAcc=0.70604
+[72:10] loss is 0.770155, acc is 0.687500
+[72:20] loss is 0.962890, acc is 0.578125
+[72:30] loss is 0.772951, acc is 0.718750
+[72:40] loss is 0.768278, acc is 0.703125
+[72:50] loss is 0.700396, acc is 0.734375
+Train Epoch=72, TrainLoss=0.71775, TrainAcc=0.72081
+Train Epoch=72, TestAcc=0.73077
+Best now is epoch=72, test acc=0.7307692307692307.     
+[73:10] loss is 0.680436, acc is 0.781250
+[73:20] loss is 0.749609, acc is 0.687500
+[73:30] loss is 0.600529, acc is 0.734375
+[73:40] loss is 0.617600, acc is 0.765625
+[73:50] loss is 0.678891, acc is 0.750000
+Train Epoch=73, TrainLoss=0.70473, TrainAcc=0.72958
+Train Epoch=73, TestAcc=0.70879
+[74:10] loss is 0.846888, acc is 0.687500
+[74:20] loss is 0.694053, acc is 0.671875
+[74:30] loss is 0.685736, acc is 0.671875
+[74:40] loss is 0.446470, acc is 0.828125
+[74:50] loss is 0.912947, acc is 0.687500
+Train Epoch=74, TrainLoss=0.69669, TrainAcc=0.73654
+Train Epoch=74, TestAcc=0.73077
+Best now is epoch=74, test acc=0.7307692307692307.     
+[75:10] loss is 0.704677, acc is 0.703125
+[75:20] loss is 0.781836, acc is 0.718750
+[75:30] loss is 0.550935, acc is 0.796875
+[75:40] loss is 0.778476, acc is 0.796875
+[75:50] loss is 0.611771, acc is 0.750000
+Train Epoch=75, TrainLoss=0.71148, TrainAcc=0.72958
+Train Epoch=75, TestAcc=0.70055
+[76:10] loss is 0.629460, acc is 0.750000
+[76:20] loss is 0.755793, acc is 0.703125
+[76:30] loss is 0.788576, acc is 0.718750
+[76:40] loss is 0.763924, acc is 0.687500
+[76:50] loss is 0.769371, acc is 0.671875
+Train Epoch=76, TrainLoss=0.69467, TrainAcc=0.72716
+Train Epoch=76, TestAcc=0.73077
+Best now is epoch=76, test acc=0.7307692307692307.     
+[77:10] loss is 0.476610, acc is 0.812500
+[77:20] loss is 0.734677, acc is 0.703125
+[77:30] loss is 0.937462, acc is 0.593750
+[77:40] loss is 0.636175, acc is 0.765625
+[77:50] loss is 0.713215, acc is 0.734375
+Train Epoch=77, TrainLoss=0.67643, TrainAcc=0.74259
+Train Epoch=77, TestAcc=0.68407
+[78:10] loss is 0.852181, acc is 0.734375
+[78:20] loss is 0.579808, acc is 0.765625
+[78:30] loss is 0.838968, acc is 0.703125
+[78:40] loss is 0.720137, acc is 0.734375
+[78:50] loss is 0.699663, acc is 0.734375
+Train Epoch=78, TrainLoss=0.68625, TrainAcc=0.73926
+Train Epoch=78, TestAcc=0.74176
+Best now is epoch=78, test acc=0.7417582417582418.     
+[79:10] loss is 0.674996, acc is 0.656250
+[79:20] loss is 0.830182, acc is 0.671875
+[79:30] loss is 0.720052, acc is 0.656250
+[79:40] loss is 0.698731, acc is 0.750000
+[79:50] loss is 0.827649, acc is 0.671875
+Train Epoch=79, TrainLoss=0.69742, TrainAcc=0.73079
+Train Epoch=79, TestAcc=0.71429
+[80:10] loss is 0.533283, acc is 0.812500
+[80:20] loss is 0.699410, acc is 0.781250
+[80:30] loss is 0.855928, acc is 0.640625
+[80:40] loss is 0.631195, acc is 0.734375
+[80:50] loss is 0.580122, acc is 0.781250
+Train Epoch=80, TrainLoss=0.66840, TrainAcc=0.74168
+Train Epoch=80, TestAcc=0.74725
+Best now is epoch=80, test acc=0.7472527472527473.     
+[81:10] loss is 0.576021, acc is 0.781250
+[81:20] loss is 0.802770, acc is 0.750000
+[81:30] loss is 0.935703, acc is 0.687500
+[81:40] loss is 0.955099, acc is 0.625000
+[81:50] loss is 0.584299, acc is 0.765625
+Train Epoch=81, TrainLoss=0.67401, TrainAcc=0.74501
+Train Epoch=81, TestAcc=0.71703
+[82:10] loss is 0.591972, acc is 0.812500
+[82:20] loss is 0.628442, acc is 0.765625
+[82:30] loss is 0.655090, acc is 0.828125
+[82:40] loss is 0.682206, acc is 0.765625
+[82:50] loss is 0.689447, acc is 0.718750
+Train Epoch=82, TrainLoss=0.70473, TrainAcc=0.74319
+Train Epoch=82, TestAcc=0.71978
+[83:10] loss is 0.751545, acc is 0.718750
+[83:20] loss is 0.621293, acc is 0.796875
+[83:30] loss is 0.627531, acc is 0.750000
+[83:40] loss is 0.514881, acc is 0.812500
+[83:50] loss is 0.690632, acc is 0.750000
+Train Epoch=83, TrainLoss=0.65684, TrainAcc=0.75529
+Train Epoch=83, TestAcc=0.73626
+[84:10] loss is 0.856382, acc is 0.687500
+[84:20] loss is 0.640119, acc is 0.781250
+[84:30] loss is 0.489664, acc is 0.812500
+[84:40] loss is 0.680419, acc is 0.859375
+[84:50] loss is 0.608564, acc is 0.765625
+Train Epoch=84, TrainLoss=0.65382, TrainAcc=0.75892
+Train Epoch=84, TestAcc=0.73626
+[85:10] loss is 0.530820, acc is 0.828125
+[85:20] loss is 0.692237, acc is 0.718750
+[85:30] loss is 0.662174, acc is 0.703125
+[85:40] loss is 0.603775, acc is 0.796875
+[85:50] loss is 0.524873, acc is 0.796875
+Train Epoch=85, TrainLoss=0.63362, TrainAcc=0.75832
+Train Epoch=85, TestAcc=0.73352
+[86:10] loss is 0.627892, acc is 0.781250
+[86:20] loss is 0.654048, acc is 0.718750
+[86:30] loss is 0.701910, acc is 0.718750
+[86:40] loss is 0.621411, acc is 0.781250
+[86:50] loss is 0.874873, acc is 0.625000
+Train Epoch=86, TrainLoss=0.65213, TrainAcc=0.75711
+Train Epoch=86, TestAcc=0.72527
+[87:10] loss is 1.090679, acc is 0.625000
+[87:20] loss is 0.667127, acc is 0.781250
+[87:30] loss is 0.690859, acc is 0.734375
+[87:40] loss is 0.785442, acc is 0.765625
+[87:50] loss is 0.514851, acc is 0.812500
+Train Epoch=87, TrainLoss=0.64476, TrainAcc=0.74985
+Train Epoch=87, TestAcc=0.74725
+Best now is epoch=87, test acc=0.7472527472527473.     
+[88:10] loss is 0.638362, acc is 0.734375
+[88:20] loss is 0.485435, acc is 0.828125
+[88:30] loss is 0.660299, acc is 0.734375
+[88:40] loss is 0.545931, acc is 0.765625
+[88:50] loss is 0.601175, acc is 0.765625
+Train Epoch=88, TrainLoss=0.61264, TrainAcc=0.77163
+Train Epoch=88, TestAcc=0.67033
+[89:10] loss is 0.602890, acc is 0.781250
+[89:20] loss is 0.667390, acc is 0.796875
+[89:30] loss is 0.515239, acc is 0.812500
+[89:40] loss is 0.635252, acc is 0.750000
+[89:50] loss is 0.610414, acc is 0.718750
+Train Epoch=89, TrainLoss=0.64677, TrainAcc=0.76376
+Train Epoch=89, TestAcc=0.74725
+Best now is epoch=89, test acc=0.7472527472527473.     
+[90:10] loss is 0.588704, acc is 0.781250
+[90:20] loss is 0.717625, acc is 0.703125
+[90:30] loss is 0.565798, acc is 0.796875
+[90:40] loss is 0.586135, acc is 0.796875
+[90:50] loss is 0.635958, acc is 0.781250
+Train Epoch=90, TrainLoss=0.64415, TrainAcc=0.75923
+Train Epoch=90, TestAcc=0.75000
+Best now is epoch=90, test acc=0.75.
